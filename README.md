@@ -15,5 +15,8 @@ The objective of this task is to perform Exploratory Data Analysis (EDA) on the 
 
 ### Key Activities
 
-- **hdskdjksd**: hih;iojoi.
-- **hiljoijokjo**: nklnkmk.
+- **Load and Inspect Data**: Load the dataset and check for missing values, data types, and basic structure.
+- **Data Visualization**: Visualize the distribution of numeric and categorical features using histograms, bar plots, and KDE plots.
+- **Outlier Detection**: Identify outliers using Z-Score and IQR methods and visualize them with box plots.
+- **Correlation Analysis**: Calculate the correlation matrix and visualize it with a heatmap to identify relationships between features.
+- **Insight Generation**: Synthesize findings from the EDA to uncover key patterns, relationships, and potential predictors.
