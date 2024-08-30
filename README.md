@@ -8,9 +8,8 @@
 
 
 
-**Name:**  VAISHNAVI MADHUKAR SONAR 
-
-**Company:**  CODTECH IT SOLUTIONS
+**Name:** <li> VAISHNAVI MADHUKAR SONAR </li>
+**Company:** <li> CODTECH IT SOLUTIONS </li>
 **ID:** CT8DS1703
 **Domain:** Data Science
 **Duration:** July to September 2024
