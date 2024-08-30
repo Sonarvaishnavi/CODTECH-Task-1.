@@ -14,3 +14,5 @@
 The objective of this task is to perform Exploratory Data Analysis (EDA) on the loan borrower dataset using pandas, numpy, and visualization libraries like matplotlib and seaborn.The goal is to explore data distributions, identify correlations, detect outliers, and visualize relationships between key variables, leading to actionable insights for further analysis or modeling.
 
 ### Key Activities
+– **Load and Inspect Data**: Load the dataset and check for missing values, data types, and basic structure
+– **Data Visualization**: Visualize the distribution of numeric and categorical features using histograms, bar plots, and KDE plots.
