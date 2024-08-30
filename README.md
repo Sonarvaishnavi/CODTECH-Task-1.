@@ -1,8 +1,7 @@
 # CODTECH-Task-1.
 <li> Name: VAISHNAVI MADHUKAR SONAR </li>
-    Company: CODTECH IT SOLUTIONS
-
-ID: CT8DS1703
+    Company: CODTECH IT SOLUTIONS</li>
+    ID: CT8DS1703
 
 Domain: Data Science
 
