@@ -20,3 +20,10 @@ The objective of this task is to perform Exploratory Data Analysis (EDA) on the 
 - **Outlier Detection**: Identify outliers using Z-Score and IQR methods and visualize them with box plots.
 - **Correlation Analysis**: Calculate the correlation matrix and visualize it with a heatmap to identify relationships between features.
 - **Insight Generation**: Synthesize findings from the EDA to uncover key patterns, relationships, and potential predictors.
+
+### Technologies Used
+- **Python**: Programming language for data analysis and visualization.
+- **Pandas**: Data manipulation and analysis library.
+- **NumPy**: Numerical computing library for handling arrays and performing mathematical operations.
+- **Matplotlib**: Plotting library for creating static, animated, and interactive visualizations.
+- **SciPy**: Library for advanced statistical and mathematical operations (used for outlier detection with Z-Score).
